@@ -1,0 +1,5 @@
+giphy.com: for all gifs and animated pictures
+flaticon.com: for awesome pictures
+cssfontstack.com: for all awesome fonts to fall back to.
+fonts.google.com: for font embedding.
+frontendmentor.io: for html css and js challenges to improve your skills
